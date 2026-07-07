@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 168" role="img" aria-label="STGMA LUX">
+  <title>STGMA LUX</title>
+  <!-- éclair (thème électrique) -->
+  <path d="M141 12 L119 52 L135 52 L127 82 L156 42 L139 42 Z" fill="#2f7ef5"/>
+  <!-- nom principal -->
+  <text x="130" y="122" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-weight="800" font-size="46" letter-spacing="1" fill="#123a86">STGMA</text>
+  <!-- ligne d'accent -->
+  <rect x="70" y="134" width="120" height="3" rx="1.5" fill="#2f7ef5" opacity="0.35"/>
+  <!-- mention LUX -->
+  <text x="136" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-weight="700" font-size="24" letter-spacing="12" fill="#2f7ef5">LUX</text>
+</svg>
